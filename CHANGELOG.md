@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/akdev1l/copr-build/compare/v1.0.2...v1.1.0) (2023-09-03)
+
+
+### Features
+
+* add source-build-type parameter to support weird builds ([cfa824d](https://github.com/akdev1l/copr-build/commit/cfa824d559ef8543a6658e0e9c2cd7e074a95ecb))
+
+
+### Bug Fixes
+
+* quotes to avoid word-splitting on user input ([948463e](https://github.com/akdev1l/copr-build/commit/948463e166d7e3c3df104eedeb95624fdda383ce))
+
 ## [1.0.2](https://github.com/akdev1l/copr-build/compare/v1.0.1...v1.0.2) (2023-09-02)
 
 
